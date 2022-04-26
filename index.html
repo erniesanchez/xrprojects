@@ -14,13 +14,15 @@
         <a-asset-item id="cuphead" src="model/scene.gltf"></a-asset-item>
         <a-asset-item id="cat" src="cat/an-animated-cat/source/cat (2)/scene.gltf"></a-asset-item>
         <a-asset-item id="cow" src="cow/cow_npc_-_now_free_to_download/scene.gltf"></a-asset-item>
+        <a-asset-item id="bird" src="hummingbird/animated_hovering_flying_hummingbird_loop/scene.gltf"></a-asset-item>
 
     </a-assets>
       <a-sky src="#sky"></a-sky>
-      
+      <a-scene fog="type: linear; color: #AAA"></a-scene>
       <a-entity gltf-model="#cuphead" animation-mixer time-scale="2" position="7 -10 -58" rotation="0 -20 0" scale="4 4 4"></a-entity>
-      <a-entity gltf-model="#cat" animation-mixer position="-10 -14 -38" rotation="0 -20 0" scale=".4 .4 .4"></a-entity>
-      <a-entity gltf-model="#cow" animation-mixer position="-38 -84 148" rotation="0 -90 0" scale=".5 .5 .5"></a-entity>
+      <a-entity gltf-model="#cat"animation-mixer position="-10 -14 -38" rotation="0 -20 0" scale=".4 .4 .4"></a-entity>
+      <a-entity gltf-model="#cow"animation-mixer position="-50 -104 148" rotation="0 -90 0" scale=".5 .5 .5"></a-entity>
+      <a-entity gltf-model="#bird"animation-mixer position="2 1 4" rotation="0 200 0" scale="20 20 20"></a-entity>
      
      
       
