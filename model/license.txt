@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cuphead
+* source:	https://sketchfab.com/3d-models/cuphead-cb9d5b97130141f98e0daccd41e0deb7
+* author:	AlmondFeather (https://sketchfab.com/almondfeather)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cuphead" (https://sketchfab.com/3d-models/cuphead-cb9d5b97130141f98e0daccd41e0deb7) by AlmondFeather (https://sketchfab.com/almondfeather) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
